@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
-- ☁️ I've keen interest in cloud computing and cryptography. So,I'm learning **AWS** && **SOLIDITY**
+- ☁️ I've keen interest in cloud computing and smart contracts. So,I'm learning **AWS** & **SOLIDITY**
 
 <!--Intro end-->
 <!--- stats & Trophy (start) -->
